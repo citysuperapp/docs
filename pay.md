@@ -4,7 +4,7 @@ Below is a typical payment flow in a mini app:
 
 | Order confirmation | Paying | Payment completed |
 |---------|---------|---------|
-| ![](_assets/super-orderconfirm.png) | ![](_assets/super-paying.PNG) | ![](_assets/super-payok.PNG) |
+| ![](_assets/super-orderconfirm.PNG) | ![](_assets/super-paying.PNG) | ![](_assets/super-payok.PNG) |
 
 
 ## Signature Machanism
