@@ -9,4 +9,4 @@ Following some simple steps, you can have your mini app up and running right awa
 
 | Order confirmation | Paying | Payment completed |
 |---------|---------|---------|
-| ![](_assets/super-orderconfirm.png) | ![](_assets/super-paying.PNG) | ![](_assets/super-payok.PNG) |
+| ![](_assets/super-orderconfirm.PNG) | ![](_assets/super-paying.PNG) | ![](_assets/super-payok.PNG) |
