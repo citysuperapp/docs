@@ -1,10 +1,14 @@
 # Payment Integration
 
-Below is a typical payment flow in a mini app:
+Below is a typical payment flow in a mini app or H5:
 
 | Order confirmation | Paying | Payment completed |
 |---------|---------|---------|
 | ![](_assets/super-orderconfirm.PNG) | ![](_assets/super-paying.PNG) | ![](_assets/super-payok.PNG) |
+
+The folowing diagram shows the payment integration process:
+
+![](_assets/h5-pay.png)
 
 
 ## Signature Machanism

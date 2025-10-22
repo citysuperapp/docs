@@ -1,6 +1,10 @@
 # User Authorization
 
-For user authorization on mini app, we need to integrate both on frontend and backend.
+For user authorization on mini app or H5, we need to integrate both on frontend and backend.
+
+The following diagram shows simple steps for user authorization.
+
+![](_assets/h5-oauth2.png)
 
 ## Frontend Integration
 
