@@ -2,7 +2,7 @@
 
 This is a guide for integrating your service into City Super App.
 
-Following few simple steps, you can have your mini app up and running right away.
+With few simple steps, you can have your mini app up and running right away.
 
 ![image-20250930150032320](_assets/image-20250930150032320.png)
 
